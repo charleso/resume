@@ -1,0 +1,3 @@
+styles:
+    personal:
+        alignment: right
