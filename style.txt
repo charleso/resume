@@ -1,3 +1,4 @@
 styles:
     personal:
         alignment: right
+        fontSize: 75%
