@@ -4,9 +4,15 @@ Charles O'Farrell
 
 .. class:: personal
 
-    charleso@gmail.com
+    **email** charleso@gmail.com
 
-    0407597892
+    **mobile** 0407597892
+
+    **twitter** charlesofarrell
+
+    **github** https://github.com/charleso/
+
+    **blog** http://blog.charleso.org/
 
 Professional Experience
 =======================
@@ -39,10 +45,6 @@ Mincom_
 Contributions
 =============
 
-- GitHub
-  https://github.com/charleso/
-- Blog
-  http://blog.charleso.org/
 - NACA
   http://code.google.com/p/naca/
 - MercurialEclipse
