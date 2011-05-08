@@ -70,8 +70,12 @@ Technical Skills
 Education
 =========
 
-Batchelor of Computing,  University of Tasmania, *Nov 2003*
+Batchelor of Computing,  University of Tasmania, *Nov 2003*, **87%**
 
 Deans Roll of Excellence, *2001, 2002, 2003*
+
+Friends Clemes College, *Old Scholars Leadership Award*
+
+Taroona High School, *Dux of the School*
 
 *References provided upon request.*
