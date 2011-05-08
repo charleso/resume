@@ -210,3 +210,8 @@ p.sidebar-subtitle {
   font-style: italic;
   color: #003a6b;
 }
+
+.personal {
+	text-align: right;
+    margin: 0em;
+}
