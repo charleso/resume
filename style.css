@@ -71,6 +71,8 @@ h1.title {
   color: #003a6b;
   font-size: 250%;
   margin-bottom: 0em;
+  border-bottom: none;
+  text-align: center;
 }
 
 h2.subtitle {
