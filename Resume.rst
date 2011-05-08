@@ -45,6 +45,10 @@ Mincom_
 Contributions
 =============
 
+- Gitcc
+  https://github.com/charleso/git-cc
+- Gitcc4j
+  http://github.com/charleso/gitcc4j
 - NACA
   http://code.google.com/p/naca/
 - MercurialEclipse
