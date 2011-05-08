@@ -8,7 +8,7 @@ Charles O'Farrell
 
     **mobile** 0407597892
 
-    **twitter** charlesofarrell
+    **twitter** `charlesofarrell <http://twitter.com/charlesofarrell/>`_
 
     **github** https://github.com/charleso/
 
