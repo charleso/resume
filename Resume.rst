@@ -10,7 +10,7 @@ Charles O'Farrell
 
     **twitter** `charlesofarrell <http://twitter.com/charlesofarrell/>`_
 
-    **github** https://github.com/charleso/
+    **github** `charleso <https://github.com/charleso/>`_
 
     **blog** http://blog.charleso.org/
 
