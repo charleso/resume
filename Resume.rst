@@ -64,7 +64,7 @@ Technical Skills
 - **Technologies** Spring, Hibernate, Ivy, EJB, XFire, JQuery, JSP, Struts, Swing, Lucene
 - **Application Servers** Tomcat, JBoss, Websphere, OC4J
 - **RDBMS** Oracle, Postgres, MS SQL, MySQL
-- **Tools** Eclipse, Git, Jenkins, Redmine, Clearcase, Subversion, Jira, Microsoft Office
+- **Tools** Eclipse, Git, Jenkins, Redmine, Clearcase, Subversion, Jira
 
 
 Education
