@@ -25,8 +25,10 @@ Mincom_
 **Software Developer**
 *Jul 2007 - Present*
 
-- Worked in an agile team upgrading a large legacy system into modern UML/Java/Flex application.
-- Migrated team from Clearcase to Git/Ivy to support development in multiple continents.
+- Extend open-source COBOL to Java library to enhance complex legacy systems
+- Replace HTML and JavaScript heavy site to modern Flex RIA
+- Migrated teams from Clearcase to Git/Ivy to support development in multiple continents
+- Develop internal model-driven tools, transforming UML to Java and Flex artefacts
 
 `The Learning Edge`_
 --------------------
