@@ -61,7 +61,7 @@ Technical Skills
 ================
 
 - **Languages** Java, Scala, Flex, HTML, XML, Javascript, CSS, Python, Haskell
-- **Technologies** Spring, Hibernate, Ivy, EJB, XFire, JQuery, JSP, Struts, Swing, Lucene
+- **Technologies** Spring, Hibernate, Ivy, EJB, XFire, JQuery, JSP, Struts, Swing, Lucene, Ant
 - **Application Servers** Tomcat, JBoss, Websphere, OC4J
 - **RDBMS** Oracle, Postgres, MS SQL, MySQL
 - **Tools** Eclipse, Git, Jenkins, Redmine, Clearcase, Subversion, Jira
