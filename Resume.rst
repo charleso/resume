@@ -22,8 +22,12 @@ Mincom_
 
 .. _Mincom: http://www.mincom.com/
 
-**Software Developer**
-*Jul 2007 - Present*
+
+**Software Engineer Level 4**
+*Mar 2010 - Present*
+
+**Software Engineer Level 3**
+*Jul 2007 - Feb 2010*
 
 - Extend open-source COBOL to Java library to enhance complex legacy systems
 - Replace HTML and JavaScript heavy site to modern Flex RIA
