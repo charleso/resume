@@ -76,7 +76,7 @@ Technical Skills
 Education
 =========
 
-Batchelor of Computing,  University of Tasmania, *Nov 2003*, **87%**, **GPA 6.67**
+Bachelor of Computing,  University of Tasmania, *Nov 2003*, **87%**, **GPA 6.67**
 
 Deans Roll of Excellence, *2001, 2002, 2003*
 
