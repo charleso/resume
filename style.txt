@@ -2,3 +2,9 @@ styles:
     personal:
         alignment: right
         fontSize: 75%
+    bullet-list:
+        spaceBefore: 0
+    bullet-list-item:
+        spaceBefore: 3
+    bodytext:
+        spaceBefore: 0

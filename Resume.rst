@@ -12,27 +12,74 @@ Charles O'Farrell
 
     **github** `charleso <https://github.com/charleso/>`_
 
+    **bitbucket** `cofrarell <https://bitbucket.org/cofarrell/>`_
+
     **blog** http://blog.charleso.org/
 
 Professional Experience
 =======================
+
+NICTA_
+------
+
+.. _NICTA: https://www.nicta.com.au/
+
+**Senior Software Developer**
+*June 2014 - Present*
+
+Atlassian_
+----------
+
+.. _Atlassian: https://www.atlassian.com
+
+**Senior Software Developer**
+*Jan 2012 - June 2014*
+
+- Senior Developer on Stash_, involved with all stages of the development cycle.
+  From feature planning, to implementation and support.
+- Git expert:
+
+    + Ran a Git Pro Bootcamp class for new Atlassian_ employees.
+    + Converted a large number of SVN repositories to Git.
+    + http://blogs.atlassian.com/2012/03/git-vs-mercurial-why-git/
+
+- Introduced FP into various of Stash_:
+
+    + Wrote a number of Scala plugins for implementing server-side functionality.
+    + Extended use of Underscore.js with a custom library.
+    + Bacon.js for event handling and stream processing.
+    + Training (`FP <http://cofarrell.bitbucket.org/javafun/>`_ and `FRP <http://cofarrell.bitbucket.org/frp/>`_)
+
+- Heavy contributor to Stash_ developer community:
+
+    + https://answers.atlassian.com/users/15347/charles-o-farrell-atlassian/
+    + https://bitbucket.org/cofarrell/
+
+- Speaker at `ScalaSyd Meetup <http://www.meetup.com/scalasyd/>`_
+
+.. _Stash: https://www.atlassian.com/software/stash
 
 Mincom_
 -------
 
 .. _Mincom: http://www.mincom.com/
 
-
 **Software Engineer Level 4**
-*Mar 2010 - Present*
+*Mar 2010 - Dec 2011*
 
 **Software Engineer Level 3**
 *Jul 2007 - Feb 2010*
 
-- Extend open-source COBOL to Java library to enhance complex legacy systems
-- Replace HTML and JavaScript heavy site to modern Flex RIA
+- Extended open-source COBOL to Java library to enhance complex legacy systems
+
+    + https://github.com/charleso/naca
+
+- Replaced HTML and JavaScript heavy site to modern Flex RIA
 - Migrated teams from Clearcase to Git/Ivy to support development in multiple continents
-- Develop internal model-driven tools, transforming UML to Java and Flex artefacts
+
+    + Creator of https://github.com/charleso/git-cc/
+
+- Developed internal model-driven tools, transforming UML to Java and Flex artefacts
 
 `The Learning Edge`_
 --------------------
@@ -46,32 +93,6 @@ Mincom_
 - Analysed, designed and developed features based on requirements
 - Maintained versions of products, including regular bug fixing
 - Consulted with customers onsite and implemented tailored solutions
-
-
-Contributions
-=============
-
-- Gitcc
-  https://github.com/charleso/git-cc
-- Gitcc4j
-  http://github.com/charleso/gitcc4j
-- NACA
-  http://code.google.com/p/naca/
-- MercurialEclipse
-  http://www.javaforge.com/project/HGE
-- EGit
-  http://www.eclipse.org/egit/
-
-
-Technical Skills
-================
-
-- **Languages** Java, Scala, Flex, HTML, XML, Javascript, CSS, Python, Haskell
-- **Technologies** Spring, Hibernate, Ivy, EJB, XFire, JQuery, JSP, Struts, Swing, Lucene, Ant
-- **Application Servers** Tomcat, JBoss, Websphere, OC4J
-- **RDBMS** Oracle, Postgres, MS SQL, MySQL
-- **Tools** Eclipse, Git, Jenkins, Redmine, Clearcase, Subversion, Jira
-
 
 Education
 =========
