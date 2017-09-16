@@ -111,7 +111,7 @@ Mincom_
 Community Experience
 ====================
 
-- Coorganiser of `ScalaSyd Meetup <http://www.meetup.com/scalasyd/>`_
+- Co-organiser of `ScalaSyd Meetup <http://www.meetup.com/scalasyd/>`_
 - Recent talks:
 
     + `Caught in a Web of Functions @ Lambda Jam 2017 <https://www.youtube.com/watch?v=WhUFaZMFt6A/>`_
