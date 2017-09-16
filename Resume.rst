@@ -12,20 +12,36 @@ Charles O'Farrell
 
     **github** `charleso <https://github.com/charleso/>`_
 
-    **bitbucket** `cofrarell <https://bitbucket.org/cofarrell/>`_
-
-    **blog** http://blog.charleso.org/
-
 Professional Experience
 =======================
 
-NICTA_
+Ambiata_
 ------
 
-.. _NICTA: https://www.nicta.com.au/
+.. _Ambiata: http://ambiata.com/
+
+**Team Lead**
+*January 2017 - Present*
 
 **Senior Software Developer**
-*June 2014 - Present*
+*June 2014 - December 2016*
+
+- Currently leading a small team focussed on improving the customer experience
+  around the web-facing aspects of Ambiata. This includes being involved at all
+  stages of the product lifecycle; from the initial technical architecture, user design,
+  through to front and back end implementation.
+- Replaced a Gulp script with a general-purpose Haskell build tool for building
+  the various web projects at Ambiata. This included supporting an in-house type-safe
+  template language Projector_, as well as compiling Sass and Purescript components.
+- Developed a number of services written in Haskell for storing metadata about the
+  configuration and state of the Ambiata data pipeline.
+- Involved in the development of a number of Haskell tools and libraries for AWS-based
+  service deployment and discovery.
+- A core developer on Ivory_, a Hadoop-based application written in Scala optimised for
+  storing large data to allow for efficient generation of machine-learning features.
+
+.. _Ivory: https://speakerdeck.com/ambiata/ivory-an-introduction
+.. _Projector: https://github.com/ambiata/projector
 
 Atlassian_
 ----------
@@ -48,14 +64,12 @@ Atlassian_
     + Wrote a number of Scala plugins for implementing server-side functionality.
     + Extended use of Underscore.js with a custom library.
     + Bacon.js for event handling and stream processing.
-    + Training (`FP <http://cofarrell.bitbucket.org/javafun/>`_ and `FRP <http://cofarrell.bitbucket.org/frp/>`_)
+    + Training (`FP <http://cofarrell.bitbucket.io/javafun/>`_ and `FRP <http://cofarrell.bitbucket.io/frp/>`_)
 
 - Heavy contributor to Stash_ developer community:
 
-    + https://answers.atlassian.com/users/15347/charles-o-farrell-atlassian/
+    + https://community.atlassian.com/t5/user/viewprofilepage/user-id/781511
     + https://bitbucket.org/cofarrell/
-
-- Speaker at `ScalaSyd Meetup <http://www.meetup.com/scalasyd/>`_
 
 .. _Stash: https://www.atlassian.com/software/stash
 
@@ -93,6 +107,15 @@ Mincom_
 - Analysed, designed and developed features based on requirements
 - Maintained versions of products, including regular bug fixing
 - Consulted with customers onsite and implemented tailored solutions
+
+Community Experience
+====================
+
+- Coorganiser of `ScalaSyd Meetup <http://www.meetup.com/scalasyd/>`_
+- Recent talks:
+
+    + `Caught in a Web of Functions @ Lambda Jam 2017 <https://www.youtube.com/watch?v=WhUFaZMFt6A/>`_
+    + `Finding More Bugs With Less Effort @ YOW Night 2017 <https://www.youtube.com/watch?v=hP-VstNdFGo/>`_
 
 Education
 =========
