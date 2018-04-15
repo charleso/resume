@@ -1,0 +1,4 @@
+#!/bin/sh -eu
+
+docker build -t charleso/resume .
+docker run -v $PWD:/root -w /root charleso/resume rst2pdf -s style.txt Resume.rst
