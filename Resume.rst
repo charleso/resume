@@ -111,6 +111,10 @@ Mincom_
 Community Experience
 ====================
 
+- Open Source:
+
+  + `Maintainer of Scala Hedgehog, property testing library with integrated shrinking <https://github.com/hedgehogqa/scala-hedgehog>`_
+  + `Maintainer of git-cc, bridge between Git and Clearcase <https://github.com/charleso/git-cc>`_
 - Co-organiser of `ScalaSyd Meetup <http://www.meetup.com/scalasyd/>`_
 - Recent talks:
 
