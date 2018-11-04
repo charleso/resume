@@ -22,7 +22,7 @@ layout: page
 [Ambiata]: https://ambiata.com/
 
 **Team Lead**
-*January 2017 - Present*
+*January 2017 - April 2018*
 
 **Senior Software Developer**
 *June 2014 - December 2016*
