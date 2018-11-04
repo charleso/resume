@@ -6,6 +6,17 @@ layout: page
 ## Professional Experience
 
 
+### [British Telecom][BritishTelecom]
+
+[BritishTelecom]: https://home.bt.com/
+
+**Senior Software Developer**
+*June 2018 - Present*
+
+- Developed machine learning tools for detecting anomalies build on the Spark
+  framework.
+
+
 ### [Ambiata]
 
 [Ambiata]: https://ambiata.com/
@@ -16,8 +27,8 @@ layout: page
 **Senior Software Developer**
 *June 2014 - December 2016*
 
-- Currently leading a small team focussed on improving the customer experience
-  around the web-facing aspects of Ambiata. This includes being involved at all
+- Led a small team focussed on improving the customer experience
+  around the web-facing aspects of Ambiata. This included being involved at all
   stages of the product lifecycle; from the initial technical architecture, user design,
   through to front and back end implementation.
 - Replaced a Gulp script with a general-purpose Haskell build tool for building

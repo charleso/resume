@@ -15,19 +15,30 @@ Charles O'Farrell
 Professional Experience
 =======================
 
+British Telecom_
+----------------
+
+.. _British Telcom: https://home.bt.com/
+
+**Senior Software Developer**
+*June 2018 - Present*
+
+- Developed machine learning tools for detecting anomalies build on the Spark
+  framework.
+
 Ambiata_
 ------
 
 .. _Ambiata: http://ambiata.com/
 
 **Team Lead**
-*January 2017 - Present*
+*January 2017 - April 2018*
 
 **Senior Software Developer**
 *June 2014 - December 2016*
 
-- Currently leading a small team focussed on improving the customer experience
-  around the web-facing aspects of Ambiata. This includes being involved at all
+- Led a small team focussed on improving the customer experience
+  around the web-facing aspects of Ambiata. This included being involved at all
   stages of the product lifecycle; from the initial technical architecture, user design,
   through to front and back end implementation.
 - Replaced a Gulp script with a general-purpose Haskell build tool for building
@@ -95,10 +106,8 @@ Mincom_
 
 - Developed internal model-driven tools, transforming UML to Java and Flex artefacts
 
-`The Learning Edge`_
+The Learning Edge
 --------------------
-
-.. _The Learning Edge: http://www.thelearningedge.com.au/
 
 **Software Developer**
 *Nov 2003 - Mar 2007*
