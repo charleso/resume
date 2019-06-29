@@ -13,8 +13,14 @@ layout: page
 **Senior Software Developer**
 *June 2018 - Present*
 
-- Developed machine learning tools for detecting anomalies build on the Spark
-  framework.
+- Developed a number of small machine learning and analytics security-based
+  tools built on the Spark framework.
+- Developed an application for correlating customer devices with external
+  vulnerabilities
+- Introduced the ability for building multiple Scala libraries from source
+  using Git submodules and a custom SBT plugin
+- Built a small in-house service for synchronising Git repositories from
+  Bitbucket to Gitlab to facilitate a migration from Teamcity
 
 
 ### [Ambiata]
