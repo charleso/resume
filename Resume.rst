@@ -21,7 +21,7 @@ British Telecom_
 .. _British Telcom: https://home.bt.com/
 
 **Senior Software Developer**
-*June 2018 - Present*
+*June 2018 - August 2019*
 
 - Developed a number of small machine learning and analytics security-based
   tools built on the Spark framework.
@@ -35,7 +35,7 @@ British Telecom_
 Ambiata_
 ------
 
-.. _Ambiata: http://ambiata.com/
+.. _Ambiata: https://ambiata.com/
 
 **Team Lead**
 *January 2017 - April 2018*

@@ -6,12 +6,33 @@ layout: page
 ## Professional Experience
 
 
+### [Skedulo]
+
+[Skedulo]: https://www.skedulo.com/
+
+**Squad Tech Lead**
+*July 2019 - Present*
+
+**Senior Software Developer**
+*September 2019 - June 2019*
+
+- Developed a [high-capacity scheduling system][HCS] on AWS, which has been
+  deployed successfully in a handful of state-level vaccination rollouts in the
+  US and Canada including [Californa][MyTurn] which has processed millions of
+  appointments.
+- Developed a distributed batch optimization orchestration system, integrating
+  with multiple external engines to provide route and shift-based solving.
+
+[HCS]: https://www.skedulo.com/high-capacity-scheduling
+[MyTurn]: https://myturn.ca.gov
+
+
 ### [British Telecom][BritishTelecom]
 
 [BritishTelecom]: https://home.bt.com/
 
 **Senior Software Developer**
-*June 2018 - Present*
+*June 2018 - August 2019*
 
 - Developed a number of small machine learning and analytics security-based
   tools built on the Spark framework.
