@@ -18,7 +18,7 @@ layout: page
 
 - Developed a [high-capacity scheduling system][HCS] on AWS, which has been
   deployed successfully in a handful of state-level vaccination rollouts in the
-  US and Canada including [Californa][MyTurn] which has processed millions of
+  US and Canada including [California][MyTurn] which has processed millions of
   appointments.
 - Developed a distributed batch optimization orchestration system, integrating
   with multiple external engines to provide route and shift-based solving.
