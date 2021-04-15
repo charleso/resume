@@ -85,7 +85,7 @@ layout: page
 
     + Ran a Git Pro Bootcamp class for new Atlassian_ employees.
     + Converted a large number of SVN repositories to Git.
-    + http://blogs.atlassian.com/2012/03/git-vs-mercurial-why-git/
+    + <http://blogs.atlassian.com/2012/03/git-vs-mercurial-why-git/>
 
 - Introduced FP into various of [Stash]:
 
@@ -96,8 +96,8 @@ layout: page
 
 - Heavy contributor to [Stash] developer community:
 
-    + https://community.atlassian.com/t5/user/viewprofilepage/user-id/781511
-    + https://bitbucket.org/cofarrell/
+    + <https://community.atlassian.com/t5/user/viewprofilepage/user-id/781511>
+    + <https://bitbucket.org/cofarrell/>
 
 [Stash]: https://www.atlassian.com/software/stash
 
@@ -114,12 +114,12 @@ layout: page
 
 - Extended open-source COBOL to Java library to enhance complex legacy systems
 
-    + https://github.com/charleso/naca
+    + <https://github.com/charleso/naca>
 
 - Replaced HTML and JavaScript heavy site to modern Flex RIA
 - Migrated teams from Clearcase to Git/Ivy to support development in multiple continents
 
-    + Creator of https://github.com/charleso/git-cc/
+    + Creator of <https://github.com/charleso/git-cc/>
 
 - Developed internal model-driven tools, transforming UML to Java and Flex artefacts
 
