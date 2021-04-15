@@ -97,6 +97,7 @@ layout: page
 - Heavy contributor to [Stash] developer community:
 
     + <https://community.atlassian.com/t5/user/viewprofilepage/user-id/781511>
+    + <https://community.atlassian.com/t5/solutions/acceptedsolutionsleaderboardpage/node-display-id/board:bitbucket-questions/timerange/all>
     + <https://bitbucket.org/cofarrell/>
 
 [Stash]: https://www.atlassian.com/software/bitbucket
